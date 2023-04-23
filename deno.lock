@@ -1,0 +1,10 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/https_status_codes@v1.2.0/mod.ts": "c03a1aa6036d247568adc315b45c5d6481547c06e1ce120c962dfbe26c2d8470",
+    "https://deno.land/x/https_status_codes@v1.2.0/src/lib/main/code/reason-phrases.ts": "ce5f7b828220bb4733cbf9f9ffe01c658c63f62fc076f4289310f336d21b9c18",
+    "https://deno.land/x/https_status_codes@v1.2.0/src/lib/main/code/records.ts": "d0f8bb59422ee11a02276edfe4466aba7b6b1c054dac05f236c088b6ce8a8fe8",
+    "https://deno.land/x/https_status_codes@v1.2.0/src/lib/main/code/status-codes.ts": "989f4fcaf659098dcf2f26b62963bed82b0285ed6693f2e54adf9e792c468fbd",
+    "https://deno.land/x/https_status_codes@v1.2.0/src/lib/main/code/utils.ts": "d2b4919a490ed627bcae66d48baffa15c491a9a6c7e9ff5370ac1634abadac6b"
+  }
+}
